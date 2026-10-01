@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "cleaning-messy-csv",
+      "title": "Cleaning Messy CSV Data with Python",
+      "description": "Clean and validate CSV data using Python's built-in csv module",
+      "path": "assignments/cleaning-messy-csv",
+      "dueDate": "2026-10-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
